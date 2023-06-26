@@ -1,0 +1,5 @@
+.nav-link:visited {
+    /* Apply the desired style for the visited link */
+    color: red;
+    font-weight: bold;
+  }

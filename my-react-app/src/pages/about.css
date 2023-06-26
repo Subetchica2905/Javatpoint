@@ -1,0 +1,120 @@
+img{
+    padding-left:50px;
+}
+
+.bg3{
+    width: 100%;
+        height: 90vh;
+        background-image: url(https://i.pinimg.com/originals/82/a0/47/82a0474442bb6189afd19ba620222507.jpg);
+        background-size: cover;
+}
+.aboutcontent {
+    display: flex;
+    justify-content: center; /* Center the items horizontally */
+    justify-content: space-between;
+}
+.aboutcontent2 {
+    display: flex;
+    justify-content: center; /* Center the items horizontally */
+    justify-content: space-between;
+    padding-top: 20px;
+}
+.h4{
+    text-align:center;
+    border-left:5px solid #00070cb2;
+    background:#01111378;
+    padding:7px;
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    
+  }
+  .h5{
+    text-align:center;
+    border-left:5px solid #00070cb2;
+    background:#01111378;
+    padding:7px;
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .bgabout{
+    width: 100%;
+    height: 60vh;
+    background-image: url(https://i.pinimg.com/originals/82/a0/47/82a0474442bb6189afd19ba620222507.jpg);
+    background-size: cover;
+  }
+  .hh{
+    text-align:center;
+    border-left:5px solid #00070cb2;
+    background:#09c6c678;
+    padding:7px;
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .hhh{
+    text-align:center;
+    border-left:5px solid #00070cb2;
+    background:#01111378;
+    padding:7px;
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .form-box {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f2f7f8;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  .form-box h2 {
+    margin-top: 0;
+  }
+  
+  .form-box label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .form-box input[type="text"],
+  .form-box input[type="email"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  .form-box input[type="radio"] {
+    margin-right: 5px;
+    padding-top: 5px;
+  }
+  .course {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .course input[type="radio"] {
+    margin-right: 5px;
+    margin-top:30px;
+  }
+  
+  .form-box input[type="submit"] {
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .form-box input[type="submit"]:hover {
+    background-color: #45a049;
+  }
+  /*.bgreg{
+    width: 100%;
+    height: 50vh;
+    background-image: url(https://i.pinimg.com/originals/82/a0/47/82a0474442bb6189afd19ba620222507.jpg);
+    background-size: cover;
+  }*/
+  
